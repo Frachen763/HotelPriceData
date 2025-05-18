@@ -102,7 +102,6 @@ hotel_analysis_full/
 
 ---
 
-*Prepared on May 18, 2025*
 
 ## 🙌 Credits
 
